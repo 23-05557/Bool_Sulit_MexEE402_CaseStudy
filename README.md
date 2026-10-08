@@ -8,7 +8,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Bool, Mark Luke | | MEXE-4102 |
+| Bool, Mark Luke | 23-06923 | MEXE-4102 |
 | Sulit, Ernest Aucin | 23-05557 | MEXE-4102 |
 
 ## Notebook links
