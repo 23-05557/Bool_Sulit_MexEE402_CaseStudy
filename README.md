@@ -1,45 +1,121 @@
-# MexEE 402: Data Preprocessing Case Study
+<div align="center">
 
-MexEE Elective 2: Data Science and Machine Learning
+# 📊 MexEE 402: Data Preprocessing Case Study
+
+**MexEE Elective 2: Data Science and Machine Learning**
 Batangas State University, Alangilan Campus
-1st Semester, AY 2026-2027
+*1st Semester, AY 2026-2027*
 
-## Members
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 👥 Members
 
 | Name | Student Number | Section |
-|---|---|---|
+|:---|:---:|:---:|
 | Bool, Mark Luke | 23-06923 | MEXE-4102 |
 | Sulit, Ernest Aucin | 23-05557 | MEXE-4102 |
 
-## Notebook links
+---
 
-| Chapter | Member 1 | Member 2 |
-|---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+## 📓 Notebook Links
 
-## What we learned
+| Chapter | Links |
+|:---|:---:|
+| **Ch1_2_3** | [🔗 Link 1]() ·
+| **Ch4** | [🔗 Link 1]() ·
+| **Ch5** | [🔗 Link 1]() ·
+| **Ch6** | [🔗 Link 1]() ·
+| **Ch7** | [🔗 Link 1]() ·
+| **Ch8** | [🔗 Link 1]() ·
+| **Ch9** | [🔗 Link 1]() ·
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
+---
 
-## Errors we found
+## 💡 What We Learned
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+> One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
+> you and what surprised you. Not what the library does, but what you understood.
 
-## Note on AI tools
+<details>
+<summary><b>Ch1_2_3</b></summary>
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+*Your paragraph here.*
 
-## References
+</details>
 
-McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
-VanderPlas, J. Python Data Science Handbook.
-Any other page or article you used.
+<details>
+<summary><b>Ch4</b></summary>
+
+*Your paragraph here.*
+
+</details>
+
+<details>
+<summary><b>Ch5</b></summary>
+
+*Your paragraph here.*
+
+</details>
+
+<details>
+<summary><b>Ch6</b></summary>
+
+*Your paragraph here.*
+
+</details>
+
+<details>
+<summary><b>Ch7</b></summary>
+
+*Your paragraph here.*
+
+</details>
+
+<details>
+<summary><b>Ch8</b></summary>
+
+*Your paragraph here.*
+
+</details>
+
+<details>
+<summary><b>Ch9</b></summary>
+
+*Your paragraph here.*
+
+</details>
+
+---
+
+## 🐞 Errors We Found
+
+> List any mistake you found in the original notebooks, and the correct version.
+> There are real ones in there. Finding them earns points.
+
+| Chapter | Original (wrong) | Correct version | Why |
+|:---|:---|:---|:---|
+| Ch? | `...` | `...` | ... |
+
+---
+
+## 🤖 Note on AI Tools
+
+> Say whether you used an AI tool, and what for. This is not a penalty.
+> Hiding it is.
+
+*Your statement here.*
+
+---
+
+## 📚 References
+
+1. McKinney, W. (2021). *Python for Data Analysis*, 3rd ed. O'Reilly.
+2. VanderPlas, J. *Python Data Science Handbook*.
+3. Any other page or article you used.
