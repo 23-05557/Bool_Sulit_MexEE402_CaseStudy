@@ -105,7 +105,7 @@ Batangas State University, Alangilan Campus
 | Ch6 |In the Z-score method, 100 is detected as a clear outlier  |There is no outlier found in the Z-score method |Though the z-score of 100 is higher than other numbers, it still falls inside the cutoff threshold of -3 to +3. Therefore, there is no outlier in the Z-score method. |
 | Ch7 | cv=5  | cv=3 | It's not necessarily an error but due to the small dataset, using cv=5 made the calculation unstable. While using cv=3 gives us a more stable result but it doesn't mean that it's more reliable which is why we still retain cv=5  in the notebook. In this chapter, the real problem lies with size of the dataset.|
 | Ch7 | `relevant__features = correlations_2[correlations_2 > 0.5]` `print(relevant__features)`  | `relevant__features = correlations_2[correlations_2 > 0.5]` `print(relevant__features)` `relevant__features = relevant__features.drop('Final Grade')`|In the original version, the final grade wasn't drop as a relevant feature but it needs to be dropped because it is the target data and must not belong to relevant features. |
-| Ch9 |  | | |
+
 
 ---
 
