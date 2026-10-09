@@ -89,7 +89,7 @@ Batangas State University, Alangilan Campus
 <details>
 <summary><b>Ch9</b></summary>
 
-*Your paragraph here.*
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 </details>
 
