@@ -82,7 +82,7 @@ Batangas State University, Alangilan Campus
 <details>
 <summary><b>Ch8</b></summary>
 
-*Your paragraph here.*
+&nbsp;&nbsp;&nbsp;&nbsp;In this chapter, we learned that a preprocessing pipeline is like a conveyor belt that processes raw data through a series of steps before it is utilized in a machine learning model. It helps make data preparation more automated, efficient, reliable, and reproducible. We also learned that a pipeline can contain multiple steps, such as `SimpleImputer` for filling missing values and `StandardScaler` for standardizing numerical features. Additionally, we also learned that by using `ColumnTransformer`, we can apply preprocessing steps to specific columns, such as Age and Fare in the Titanic dataset. Overall, we realized that preprocessing pipelines help organize data preparation and ensure that data is properly processed before training a machine learning model.
 
 </details>
 
@@ -102,16 +102,13 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Original (wrong) | Correct version | Why |
 |:---|:---|:---|:---|
-| Ch? | `...` | `...` | ... |
+| Ch1_2_3 | `...` | `...` | ... |
 
 ---
 
 ## 🤖 Note on AI Tools
 
-> Say whether you used an AI tool, and what for. This is not a penalty.
-> Hiding it is.
-
-*Your statement here.*
+&nbsp;&nbsp;&nbsp;&nbsp;We utilize Chatgpt and Claude in answering the chapter questions and also in understanding each codes and concepts that we need to grasp. The following AI tools were also used to verify grammatical errors and also in validation of our answers, if it convey the correct concepts. We also utilized Gemini AI that is available in the Google Colab to explain codes and  fix errors in the code because there are times where we miss some commas, parenthesis, and brackets. 
 
 ---
 
@@ -119,4 +116,4 @@ Batangas State University, Alangilan Campus
 
 1. McKinney, W. (2021). *Python for Data Analysis*, 3rd ed. O'Reilly.
 2. VanderPlas, J. *Python Data Science Handbook*.
-3. Any other page or article you used.
+
